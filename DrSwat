@@ -24,4 +24,3 @@ DrSwat-Engine/
 │   ├── schema.sql              # مخطط قاعدة البيانات
 │   └── seed.sql                # بيانات أولية
 └── README.md                   # توثيق المشروع
-
