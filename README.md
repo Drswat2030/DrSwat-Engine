@@ -85,14 +85,15 @@
 ---
 
 
-- 🎨 واجهة المستخدم (HTML + CSS)
+- 🎨 واجهة المستخدم  
 - <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>منصة صوت وحياة - DrSwat Engine</title>
-    <link rel="stylesheet" href="style.css">
+    <link 
+     rel="stylesheet"    href="style.css">
 </head>
 <body>
     <header>
@@ -100,25 +101,20 @@
     <main>
         <section id="analysis">
             <h2>تحليل النص</h2>
-            <textarea id="inputText" placeholder="اكتب النص هنا..."></textarea>
-            <button onclick="analyzeText()">ابدأ التحليل</button>
+            <textarea id="inputText" placeholder="اكتب النص 
+        onclick="analyzeText()">ابدأ التحليل</button>
             <div id="result"></div>
         </section>
     </main>
 
  
-        <p>© 2025 صوت وحياة - جميع الحقوق محفوظة</p>
-    </footer>
+        <p>© 2025 صوت وحياة - 
+                 </footer>
 
-
-
-    <script src="script.js"></script>
 </body>
 </html>
         <section 
         
-
-
 
 ## 🛠️ البدء بالتشغيل
 
