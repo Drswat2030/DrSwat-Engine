@@ -42,3 +42,29 @@ main {
     font-size: 1rem;
     line-height: 1.8;
 }
+
+#drswat-method {
+  background-color: #f9f9f9;
+  border-radius: 16px;
+  padding: 24px;
+  margin-top: 32px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  direction: rtl;
+}
+
+#drswat-method h2 {
+  font-size: 1.8em;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.steps-list {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+
+.steps-list li {
+  margin-bottom: 10px;
+  font-size: 1rem;
+  line-height: 1.6;
+}
