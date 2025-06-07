@@ -1,8 +1,6 @@
 # DrSwat Engine - منصة العقل المحرك
 
-![DrSwat Engine Logo]
-
-(https://via.placeholder.com/150x150.png?text=DrSwat+Engine)
+[DrSwat Engine Logo]
 
 منصة العقل المحرك (DrSwat Engine) هي نظام ذكي لتحليل النصوص، تحفيز المستخدمين، وبناء مجتمع يعتمد على البيانات. تهدف المنصة إلى تحفيز الأفراد وبناء مجتمع متعافي قائم على البيانات والتوجيه الذكي.
 
