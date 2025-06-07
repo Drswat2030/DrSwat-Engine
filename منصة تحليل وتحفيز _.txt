@@ -1,1 +1,0 @@
-This page shows the تحليل وتحفيز _.txt" within the "DrSwat-Engine" repository.  The editor allows for standard text editing functions, including indentation, line wrapping, and tab key functionality.  The URL indicates the file is being edited within the main branch of the repository.  
