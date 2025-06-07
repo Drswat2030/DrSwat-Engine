@@ -2,6 +2,9 @@
 // Script to handle basic interactivity (optional future AI analysis)
 console.log("DrSwat Engine Loaded. Ready for data analysis.");
 
+// Script to handle basic interactivity (optional future AI analysis)
+console.log("DrSwat Engine Loaded. Ready for data analysis.");
+
 function analyzeText() {
     const input = document.getElementById("userInput").value;
     const result = document.getElementById("result");
