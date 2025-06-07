@@ -1,17 +1,62 @@
-
+/* تنسيق واجهة DrSwat Engine */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Tahoma', sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
+    direction: rtl;
+    text-align: right;
 }
+
 header {
-    background-color: #3b5998;
-    color: white;
+    background-color: #005f73;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
+
 main {
     padding: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    resize: vertical;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 10px;
+    background-color: #0a9396;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #007f87;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e9d8a6;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    padding: 15px;
+    background-color: #005f73;
+    color: white;
 }
