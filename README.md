@@ -98,12 +98,8 @@
 <body>
     <header>
         
-    <main>
-        <section id="analysis">
-            <h2>تحليل النص</h2>
-            <textarea id="inputText" placeholder="اكتب النص 
-        onclick="analyzeText()">ابدأ التحليل</button>
- 
+    
+        
         
 
 ## 🛠️ البدء بالتشغيل
