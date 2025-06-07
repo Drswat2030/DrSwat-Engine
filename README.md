@@ -103,17 +103,7 @@
             <h2>تحليل النص</h2>
             <textarea id="inputText" placeholder="اكتب النص 
         onclick="analyzeText()">ابدأ التحليل</button>
-            <div id="result"></div>
-        </section>
-    </main>
-
  
-        <p>© 2025 صوت وحياة - 
-                 </footer>
-
-</body>
-</html>
-        <section 
         
 
 ## 🛠️ البدء بالتشغيل
