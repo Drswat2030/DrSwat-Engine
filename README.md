@@ -96,10 +96,7 @@
 </head>
 <body>
     <header>
-        <h1>منصة صوت وحياة - DrSwat Engine</h1>
-        <p>تحليل، تحفيز، تمكين</p>
-    </header>
-
+        
     <main>
         <section id="analysis">
             <h2>تحليل النص</h2>
@@ -109,9 +106,11 @@
         </section>
     </main>
 
-    <footer>
+ 
         <p>© 2025 صوت وحياة - جميع الحقوق محفوظة</p>
     </footer>
+
+
 
     <script src="script.js"></script>
 </body>
