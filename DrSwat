@@ -1,0 +1,27 @@
+DrSwat-Engine/
+├── backend/
+│   ├── app.py                  # تطبيق Flask الرئيسي
+│   ├── config.py               # إعدادات التطبيق
+│   ├── models/                 # نماذج قاعدة البيانات
+│   │   ├── __init__.py
+│   │   ├── skill.py            # نموذج المهارات
+│   │   └── user.py             # نموذج المستخدمين
+│   ├── routes/                 # مسارات API
+│   │   ├── __init__.py
+│   │   ├── skills_routes.py    # مسارات المهارات
+│   │   └── user_routes.py      # مسارات المستخدمين
+│   └── utils/                  # أدوات مساعدة
+│       ├── __init__.py
+│       └── db_utils.py         # أدوات قاعدة البيانات
+├── frontend/
+│   ├── css/
+│   │   └── style.css           # ملفات CSS
+│   ├── js/
+│   │   ├── main.js             # الكود الرئيسي
+│   │   └── skills.js           # كود خاص بالمهارات
+│   └── index.html              # الصفحة الرئيسية
+├── database/
+│   ├── schema.sql              # مخطط قاعدة البيانات
+│   └── seed.sql                # بيانات أولية
+└── README.md                   # توثيق المشروع
+
